@@ -23,6 +23,10 @@ export default function Home() {
           <Link href="/api/users">API Route Data</Link>
         </li>
         <li>
+          {/* 5th Question */}
+          <Link href="/users">Users List using API</Link>
+        </li>
+        <li>
           <Link href="/blog">Blog List (ISR)</Link>
         </li>
         <li>
