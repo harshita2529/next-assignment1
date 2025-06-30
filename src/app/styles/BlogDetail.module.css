@@ -1,0 +1,11 @@
+.container {
+    padding: 10px;
+    background-color: #fff0f0;
+    border-left: 4px solid crimson;
+    text-align: center;
+  }
+
+.heading {
+    font-weight: 800;
+    margin: 15px auto;
+}
